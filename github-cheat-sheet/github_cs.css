@@ -1,0 +1,19 @@
+code {
+  /* color: red; 
+  style="background-color:gainsboro;" */
+  background-color:#b4b4b4;
+  color: black;
+}
+p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+body {
+  background-color: #3c3c3c;
+  color: white;
+}
+/*
+With CSS, a color is most often specified by:
+a valid color name - like "red"
+a HEX value - like "#ff0000"
+an RGB value - like "rgb(255,0,0)"
+*/
